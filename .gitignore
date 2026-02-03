@@ -27,3 +27,6 @@ package-lock.json
 # Sentry Config File
 .env.sentry-build-plugin
 .nvmrc
+
+.claude/
+CLAUDE.md
